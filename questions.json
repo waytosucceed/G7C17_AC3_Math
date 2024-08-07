@@ -1,0 +1,122 @@
+[
+  {
+      "question": "In Ava's redesign of the intersection, she needs to analyze two marked angles. Determine if these angles are corresponding or non-corresponding.",
+      "options": ["Corresponding", "Non-corresponding"],
+      "correct": 0,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "question": "Ava is reviewing the angles in her design. Are the two angles marked in her diagram corresponding? Select true or false.",
+      "options": ["True", "False"],
+      "correct": 1,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "question": "In Ava's design figure, is angle 1 corresponding to angle 4? Evaluate if this statement is true or false.",
+      "options": ["True", "False"],
+      "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "question": "While working on the intersection redesign, Ava needs to identify which angle corresponds to ∠a. Choose the correct angle from the options provided.",
+      "options": ["∠h", "∠d", "∠e", "∠b"],
+      "correct": 2,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "question": "To finalize her plans, Ava must find which angle corresponds to ∠c. Select the appropriate angle from the following choices.",
+      "options": ["∠g", "∠d", "∠f", "∠b"],
+      "correct": 0,
+      "img": "./assests/images/5.jpg"
+  },
+  {
+      "question": "In Ava's intersection redesign, SU and VX are parallel lines. Identify which pair of angles are corresponding from the following options:",
+      "options": ["∠STR and ∠VWT", "∠STR and ∠XWT", "∠STR and ∠XWY", "∠STR and ∠STW"],
+      "correct": 0,
+      "img": "./assests/images/6.jpg"
+  },
+  {
+      "question": "MO and PR are two parallel lines in Ava's design project. Which of the following pairs of angles are corresponding?",
+      "options": ["∠MNL and ∠RQS", "∠MNL and ∠PQN", "∠MNL and ∠ONL", "∠MNL and ∠PQS"],
+      "correct": 1,
+      "img": "./assests/images/7.jpg"
+  },
+  {
+      "question": "In Ava's plan FH and IK are parallel lines. Determine which angles are corresponding from the following options:",
+      "options": ["∠IJG and ∠FGJ", "∠IJG and ∠HGJ", "∠IJG and ∠FGE", "∠IJG and ∠HGE"],
+      "correct": 2,
+      "img": "./assests/images/8.jpg"
+  },
+  {
+      "question": "Ava needs to find which angle is vertically opposite to ∠4 in her design. Choose the correct angle.",
+      "options": ["∠2", "∠5", "∠1", "∠3"],
+      "correct": 0,
+      "img": "./assests/images/9.jpg"
+  },
+  {
+      "question": "In Ava's redesign, determine which angle is vertically opposite to ∠3.",
+      "options": ["∠2", "∠4", "∠5", "∠1"],
+      "correct": 3,
+      "img": "./assests/images/10.jpg"
+  },
+  {
+      "question": "Ava is adjusting the traffic signals. Determine which angle is directly vertical to ∠5 in the design.",
+      "options": ["∠1", "∠2", "∠3", "∠4"],
+      "correct": 2,
+      "img": "./assests/images/11.jpg"
+  },
+  {
+      "question": "For precise traffic signal placement, Ava needs to know which angle is adjacent to ∠2. Pick the angle that is next to it.",
+      "options": ["∠1", "∠4", "∠6", "∠5"],
+      "correct": 0,
+      "img": "./assests/images/12.jpg"
+  },
+  {
+      "question": "Ava is examining her design and needs to find which angle is adjacent to ∠6.",
+      "options": ["∠4", "∠1", "∠2", "∠3"],
+      "correct": 1,
+      "img": "./assests/images/13.jpg"
+  },
+  {
+      "question": "In Ava's intersection redesign, find the angle that is adjacent to ∠2.",
+      "options": ["∠4", "∠1", "∠6", "∠5"],
+      "correct": 1,
+      "img": "./assests/images/14.jpg"
+  },
+  {
+      "question": "Ava needs to calculate complementary angles for the new traffic lights. If one angle measures 55°, what is the measure of its complementary angle?",
+      "options": ["125°", "35°", "55°", "45°"],
+      "correct": 1,
+      "img": "./assests/images/15.jpg"
+  },
+  {
+      "question": "In the redesign, if one of the angles measures 80°, what is the measure of its complementary angle to fit with the new road signs?",
+      "options": ["10°", "170°", "100°", "40°"],
+      "correct": 0,
+      "img": "./assests/images/16.jpg"
+  },
+  {
+      "question": "Ava is checking angle pairs. Are angles measuring 45° and 45° complementary or supplementary for the intersection’s design?",
+      "options": ["Complementary", "Supplementary"],
+      "correct": 0,
+      "img": "./assests/images/17.jpg"
+  },
+  {
+      "question": "To adjust the angle of the road signs, Ava needs to find the supplementary angle of one measuring 79°. What is the measure of this angle?",
+      "options": ["11°", "169°", "101°", "111°"],
+      "correct": 2,
+      "img": "./assests/images/18.jpg"
+  },
+  {
+      "question": "In the redesign, Ava needs to know the supplementary angle of an angle measuring 107°. What is this angle’s measurement?",
+      "options": ["73°", "93°", "17°", "13°"],
+      "correct": 0,
+      "img": "./assests/images/19.jpg"
+  },
+  {
+      "question": "To finalize the intersection design, Ava must determine if the angles 65° and 115° are complementary or supplementary. Choose the correct option.",
+      "options": ["Complementary", "Supplementary"],
+      "correct": 1,
+      "img": "./assests/images/20.jpg"
+  }
+]
